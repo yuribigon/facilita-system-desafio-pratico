@@ -1,5 +1,5 @@
 
-# Nome do Seu Projeto
+# Desafio Prático
 Este é o README do projeto de gerenciamento de tarefas proposto em desafio técnico da Facilita System. 
 
 Aqui você encontrará informações importantes sobre as dependências, configurações e instruções para executar o projeto.
